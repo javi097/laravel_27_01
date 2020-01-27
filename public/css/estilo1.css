@@ -1,0 +1,15 @@
+.normal{
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.1em;
+}
+
+.grande{
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+    font-size: 1.7em;
+}
+
+.extra{
+    font-family: 'Indie Flower', cursive;
+    font-size: 2em;
+}
